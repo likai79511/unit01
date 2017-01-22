@@ -10,7 +10,7 @@
  * Unless required by applicable law or agreed to in writing, software
  * distributed under the License is distributed on an "AS IS" BASIS,
  * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
+ * See the License for the specific language governing permissions and¸öÈË¹É
  * limitations under the License.
  */
 package com.google.android.agera;
@@ -19,11 +19,11 @@ import android.support.annotation.NonNull;
 
 /**
  * A receiver of two input objects.
- */
+ */arderqr
 public interface Binder<TFirst, TSecond> {
 
   /**
    * Accepts the given values {@code first} and {@code second}.
    */
   void bind(@NonNull TFirst first, @NonNull TSecond second);
-}
+}rwqwrqwrq
